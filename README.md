@@ -15,3 +15,6 @@
 ## A aplicação ficará disponível em:
 
 [http://localhost:3000](http://localhost:3000)
+
+
+<img src="https://user-images.githubusercontent.com/22403795/210029976-822577fc-f1fb-4b06-8572-c17ac6096c37.png" alt="drawing" width="400"/>
